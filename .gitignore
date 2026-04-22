@@ -4,3 +4,4 @@ __pycache__/
 .env
 cookies.pkl
 .vscode/
+__init__.py
